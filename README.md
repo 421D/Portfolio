@@ -57,17 +57,6 @@ Each stage builds on the previous one, emphasising **code structure, scalability
 - **Documentation & Presentation:** Technical writing, UML, report structuring  
 
 
-
-## Representative Screens
-
-| Domain | Example |
-|--------|----------|
-| Web Mockup | ![Mobile Web](./Web_Projects/preview/web_preview.png) |
-| WeChat Mini Program | ![WeChat](./WeChat-Mini-Program/screenshots/linli.png) |
-| Java System | ![Hotel GUI](./preview/hotel_preview.png) |
-
-
-
 ## Vision & Next Steps
 
 My current direction focuses on:
