@@ -26,13 +26,13 @@ Each project demonstrates **independent design, implementation, and documentatio
 
 | Category | Repository | Highlights |
 |-----------|-------------|-------------|
-| **Web Projects** | [Web_Projects](https://github.com/yourusername/Web_Projects) | Front-end/UI development: responsive design, animation, CMS integration |
-| **Database Projects** | [Database_Projects](https://github.com/yourusername/Database_Projects) | Relational design, triggers, stored procedures, backend data control |
-| **WeChat Mini Programs** | [WeChat_MiniProgram_Projects](https://github.com/yourusername/WeChat_MiniProgram_Projects) | Serverless cloud functions, native APIs, modular component design |
-| **Android App** | [Daily_Finance_App](https://github.com/yourusername/Daily_Finance_App) | Local data storage, splash screen, real-time UI updates |
-| **AI Projects** | [AI_Projects](https://github.com/yourusername/AI_Projects) | Machine Learning vs Deep Learning comparison, CNN fashion classifier |
-| **Java Desktop System** | [Hotel_Management_System](https://github.com/yourusername/Hotel_Management_System) | Swing GUI + SQL Server + JDBC, full CRUD hotel management |
-| **Portfolio (This Repo)** | [Portfolio](https://github.com/yourusername/Portfolio) | Overview of technical ecosystem and cross-domain skill set |
+| **Web Projects** | [Web_Projects](https://github.com/421D/Web_Projects) | Front-end/UI development: responsive design, animation, CMS integration |
+| **Database Projects** | [Database_Projects](https://github.com/421D/Database_Projects) | Relational design, triggers, stored procedures, backend data control |
+| **WeChat Mini Programs** | [WeChat_MiniProgram_Projects](https://github.com/421D/WeChat_MiniProgram_Projects) | Serverless cloud functions, native APIs, modular component design |
+| **Android App** | [Daily_Finance_App](https://github.com/421D/Daily_Finance_App) | Local data storage, splash screen, real-time UI updates |
+| **AI Projects** | [AI_Projects](https://github.com/421D/AI_Projects) | Machine Learning vs Deep Learning comparison, CNN fashion classifier |
+| **Java Desktop System** | [Hotel_Management_System](https://github.com/421D/Hotel_Management_System) | Swing GUI + SQL Server + JDBC, full CRUD hotel management |
+| **Portfolio (This Repo)** | [Portfolio](https://github.com/421D/Portfolio) | Overview of technical ecosystem and cross-domain skill set |
 
 
 
@@ -89,7 +89,7 @@ Future portfolio updates will include:
 
 **Name:** Dani  
 **Role:** Master of Information Technology, UNSW  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+**GitHub:** [github.com/421D](https://github.com/421D)  
 **LinkedIn:** *1111111111*  
 
 
