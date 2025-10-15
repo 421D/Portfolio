@@ -24,10 +24,6 @@ Each project demonstrates **independent design, implementation, and documentatio
 
 ## Project Collections
 
-| Project | Description |
-|---------|-------------|
-| [Web_Projects](https://github.com/421D/Web_Projects) | Front-end/UI development: responsive design, animation, CMS integration |
-
 | Category | Repository | Highlights |
 |-----------|-------------|-------------|
 | **Web Projects** | [Web_Projects](https://github.com/421D/Web_Projects) | Front-end/UI development: responsive design, animation, CMS integration |
@@ -36,8 +32,6 @@ Each project demonstrates **independent design, implementation, and documentatio
 | **Android App** | [Android_Projects ](https://github.com/421D/Android_Projects ) | Local data storage, splash screen, real-time UI updates |
 | **AI Projects** | [AI Projects](https://github.com/421D/AI_Projects ) | Machine Learning vs Deep Learning comparison, CNN fashion classifier |
 | **Java Desktop System** | [Java_Apps ](https://github.com/421D/Java_Apps ) | Swing GUI + SQL Server + JDBC, full CRUD hotel management |
-| **Portfolio (This Repo)** | [Portfolio](https://github.com/421D/Portfolio) | Overview of technical ecosystem and cross-domain skill set |
-
 
 
 ## Development Evolution
