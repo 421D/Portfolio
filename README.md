@@ -19,7 +19,7 @@ Each project demonstrates **independent design, implementation, and documentatio
 | **Android Development** | Java, Android SDK, RecyclerView, JSON | Local persistence, activity flow, UI logic |
 | **AI / ML Projects** | Python, CNNs, EfficientNet, SVM, Transfer Learning | Computer vision, model evaluation, performance analysis |
 | **Desktop Systems** | Java Swing, JDBC, SQL Server | GUI systems, authentication, CRUD operations |
-| **Game Development** | Unity, C#, NavMesh, Physics | FPS mechanics, AI, HUD, level design |
+| **Game Development** | Unity, C##, NavMesh, Physics | FPS mechanics, AI, HUD, level design |
 
 
 ## Project Collections
