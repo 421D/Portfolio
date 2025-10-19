@@ -11,38 +11,22 @@ Each project demonstrates **independent design, implementation, and documentatio
 
 ## Technical Overview
 
-| Domain | Key Skills / Tools | Focus |
-|--------|--------------------|--------|
-| **Web Development** | HTML, CSS, JavaScript, PHP, jQuery, CMS (Dedecms) | Front-end interaction, responsive design, static–dynamic transition |
-| **Database Systems** | SQL Server, Relational Schema, Triggers, Stored Procedures | Data integrity, transaction logic, automation |
-| **WeChat Mini Programs** | WXML, WXSS, JS, WeChat Cloud Functions, APIs | Serverless architecture, modular design, full-stack WeChat apps |
-| **Android Development** | Java, Android SDK, RecyclerView, JSON | Local persistence, activity flow, UI logic |
-| **AI / ML Projects** | Python, CNNs, EfficientNet, SVM, Transfer Learning | Computer vision, model evaluation, performance analysis |
-| **Desktop Systems** | Java Swing, JDBC, SQL Server | GUI systems, authentication, CRUD operations |
-| **Game Development** | Unity, C##, NavMesh, Physics | FPS mechanics, AI, HUD, level design |
-
-
-## Project Collections
-
-| Category | Repository | Highlights |
-|-----------|-------------|-------------|
-| **Web Projects** | [Web_Projects](https://github.com/421D/Web_Projects) | Front-end/UI development: responsive design, animation, CMS integration |
-| **Database Projects** | [Database_Projects](https://github.com/421D/Database_Projects) | Relational design, triggers, stored procedures, backend data control |
-| **WeChat Mini Programs** | [WeChat Mini Programs](https://github.com/421D/WeChat-Mini-Program ) | Serverless cloud functions, native APIs, modular component design |
-| **Android App** | [Android_Projects ](https://github.com/421D/Android_Projects ) | Local data storage, splash screen, real-time UI updates |
-| **AI Projects** | [AI Projects](https://github.com/421D/AI_Projects ) | Machine Learning vs Deep Learning comparison, CNN fashion classifier |
-| **Java Desktop System** | [Java_Apps ](https://github.com/421D/Java_Apps ) | Swing GUI + SQL Server + JDBC, full CRUD hotel management |
+| Domain | Repository | Key Skills / Tools | Focus |
+|--------|-------------|--------------------|--------|
+| **Web Development** | [Web_Projects](https://github.com/421D/Web_Projects) | HTML, CSS, JavaScript, PHP, jQuery, CMS | Front-end interaction, responsive design, static–dynamic transition |
+| **Database Systems** | [Database_Projects](https://github.com/421D/Database_Projects) | SQL Server, Relational Schema, Triggers, Stored Procedures | Data integrity, transaction logic, automation|
+| **WeChat Mini Programs** | [WeChat Mini Programs](https://github.com/421D/WeChat-Mini-Program ) | WXML, WXSS, JS, WeChat Cloud Functions, APIs | Serverless architecture, modular design, full-stack WeChat apps |
+| **Android Development** | [Android_Projects ](https://github.com/421D/Android_Projects ) | Java, Android SDK, RecyclerView, JSON | Local persistence, activity flow, UI logic |
+| **AI / ML Projects** | [AI Projects](https://github.com/421D/AI_Projects ) | Python, CNNs, EfficientNet, SVM, Transfer Learning | Computer vision, model evaluation, performance analysis |
+| **Java Desktop Systems** | [Java_Apps ](https://github.com/421D/Java_Apps ) | Java Swing, JDBC, SQL Server | GUI systems, authentication, CRUD operations |
+| **Game Development** |-------------| Unity, C##, NavMesh, Physics | FPS mechanics, AI, HUD, level design |
 
 
 ## Development Evolution
 ```
 UI Design → Front-end Interaction → Dynamic CMS → Database Architecture → Serverless Cloud → AI/ML Integration
 ```
-
-
-
 This progression illustrates a **bottom-up understanding** of system development — from user interfaces and client logic to backend data processing and intelligent automation.
-
 Each stage builds on the previous one, emphasising **code structure, scalability, and user experience**.
 
 
@@ -72,11 +56,13 @@ Future portfolio updates will include:
 
 
 ## Contact
-
 **Name:** Dani  
 **Role:** Master of Information Technology, UNSW  
-**GitHub:** [github.com/421D](https://github.com/421D)  
-**LinkedIn:** *1111111111*  
+**GitHub:** [github_danni](https://github.com/421D)  
+**LinkedIn:** [linkedin_danni](https://www.linkedin.com/in/dani-c-1b7648388/) 
+
+
+
 
 
 
