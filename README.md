@@ -13,11 +13,11 @@ Each project demonstrates **independent design, implementation, and documentatio
 
 | Domain | Repository | Key Skills / Tools | Focus |
 |--------|-------------|--------------------|--------|
+| **AI / ML Projects** | [AI Projects](https://github.com/421D/AI_Projects ) | Python, CNNs, EfficientNet, SVM, Transfer Learning | Computer vision, model evaluation, performance analysis |
 | **Web Development** | [Web_Projects](https://github.com/421D/Web_Projects) | HTML, CSS, JavaScript, PHP, jQuery, CMS | Front-end interaction, responsive design, static–dynamic transition |
 | **Database Systems** | [Database_Projects](https://github.com/421D/Database_Projects) | SQL Server, Relational Schema, Triggers, Stored Procedures | Data integrity, transaction logic, automation|
 | **WeChat Mini Programs** | [WeChat Mini Programs](https://github.com/421D/WeChat-Mini-Program ) | WXML, WXSS, JS, WeChat Cloud Functions, APIs | Serverless architecture, modular design, full-stack WeChat apps |
 | **Android Development** | [Android_Projects ](https://github.com/421D/Android_Projects ) | Java, Android SDK, RecyclerView, JSON | Local persistence, activity flow, UI logic |
-| **AI / ML Projects** | [AI Projects](https://github.com/421D/AI_Projects ) | Python, CNNs, EfficientNet, SVM, Transfer Learning | Computer vision, model evaluation, performance analysis |
 | **Java Desktop Systems** | [Java_Apps ](https://github.com/421D/Java_Apps ) | Java Swing, JDBC, SQL Server | GUI systems, authentication, CRUD operations |
 | **Game Development** |In Progress | Unity, C##, NavMesh, Physics | FPS mechanics, AI, HUD, level design |
 
