@@ -1,68 +1,66 @@
-# Portfolio – Full Stack Development & System Design Showcase
+# Portfolio – Full-Stack Development, System Design & AI Showcase
 
-This portfolio repository serves as a **comprehensive index** of my full-stack development, system architecture, and data-driven project experience.  
-It consolidates works across multiple technical domains — from **front-end design** and **WeChat ecosystem development** to **database engineering**, **AI experimentation**, and **Java-based desktop systems**.
+This portfolio consolidates my **full-stack, backend, cloud, AI, and interactive system projects**, highlighting my ability to design, implement, and document end-to-end IT solutions.  
+Projects span **mobile apps, desktop systems, WeChat Mini Programs, database engineering, AI experimentation, and game development**, reflecting both technical breadth and engineering depth.
 
-Each project demonstrates **independent design, implementation, and documentation**, reflecting my continuous evolution from UI-level work to backend architecture and AI integration.
+> Demonstrates a journey from **user interfaces** to **backend architecture**, **serverless cloud integration**, and **applied AI**, emphasizing scalability, maintainability, and practical deployment.
 
-> This portfolio represents an **end-to-end journey** in IT system development — from design to deployment, from UI to AI.  
-
-
+---
 
 ## Technical Overview
 
-| Domain | Repository | Key Skills / Tools | Focus |
-|--------|-------------|--------------------|--------|
-| **AI / ML Projects** | [AI Projects](https://github.com/421D/AI_Projects ) | Python, CNNs, EfficientNet, SVM, Transfer Learning | Computer vision, model evaluation, performance analysis |
-| **Web Development** | [Web_Projects](https://github.com/421D/Web_Projects) | HTML, CSS, JavaScript, PHP, jQuery, CMS | Front-end interaction, responsive design, static–dynamic transition |
-| **Database Systems** | [Database_Projects](https://github.com/421D/Database_Projects) | SQL Server, Relational Schema, Triggers, Stored Procedures | Data integrity, transaction logic, automation|
-| **WeChat Mini Programs** | [WeChat Mini Programs](https://github.com/421D/WeChat-Mini-Program ) | WXML, WXSS, JS, WeChat Cloud Functions, APIs | Serverless architecture, modular design, full-stack WeChat apps |
-| **Android Development** | [Android_Projects ](https://github.com/421D/Android_Projects ) | Java, Android SDK, RecyclerView, JSON | Local persistence, activity flow, UI logic |
-| **Java Desktop Systems** | [Java_Apps ](https://github.com/421D/Java_Apps ) | Java Swing, JDBC, SQL Server | GUI systems, authentication, CRUD operations |
-| **Game Development** |In Progress | Unity, C##, NavMesh, Physics | FPS mechanics, AI, HUD, level design |
+| Domain | Repository | Key Skills / Tools | Highlights |
+|--------|------------|------------------|------------|
+| **AI / Computer Vision** | [AI_ComputerVision](https://github.com/421D/AI_Projects) | Python, CNNs, EfficientNet, SVM, Transfer Learning | Image classification, model comparison, performance evaluation, transfer learning experiments |
+| **Full-Stack / Front-end Development** | [fullstack_frontend-development](https://github.com/421D/fullstack_frontend-development) | Java, Android Studio, WXML, WXSS, JS | Android finance app, WeChat Mini Programs, dynamic UI, user-centric interactions |
+| **WeChat Cloud / Serverless** | [Community Convenience Service System](https://github.com/421D/community-convenience-service) | WeChat Cloud Functions, NoSQL, Serverless backend, modular JS | Community trading & property management platform, real-time updates, cloud-based automation |
+| **Database & Backend Engineering** | [system-engineering_backend](https://github.com/421D/system-engineering_backend) | Rust, SQL (T-SQL), Concurrency, DAG, Reactive dataflow | RSheet spreadsheet engine, relational DB projects, multi-threading, data integrity |
+| **Desktop Systems / Product Prototyping** | [product_prototyping](https://github.com/421D/product_prototyping) | Java Swing, JDBC, Access DB | Full CRUD desktop management systems, user-centred design, prototyping workflows |
+| **Game / Interactive Systems** | [game_Interactive-Systems](https://github.com/421D/game_Interactive-Systems) | Unreal Engine 5, Level Design, Lighting | Multi-floor underground station level, interactive environment, immersive scene design |
 
+---
 
 ## Development Evolution
-```
-UI Design → Front-end Interaction → Dynamic CMS → Database Architecture → Serverless Cloud → AI/ML Integration
-```
-This progression illustrates a **bottom-up understanding** of system development — from user interfaces and client logic to backend data processing and intelligent automation.
-Each stage builds on the previous one, emphasising **code structure, scalability, and user experience**.
 
+```
+UI Design → Front-end Interaction → Dynamic CMS → Database Architecture → Serverless Cloud → AI/ML Integration → Interactive Systems
+```
+
+This illustrates a **bottom-up mastery of IT system development**, from user interfaces and client logic to backend data management, cloud automation, and applied AI.  
+Each stage builds on the previous, emphasizing **modularity, scalability, and maintainability**.
+
+---
 
 ## Core Competencies
 
-- **Front-end Engineering:** Responsive layout, DOM manipulation, component-based UI  
-- **Backend Design:** SQL normalisation, data integrity enforcement, automation via triggers  
-- **System Integration:** Linking front-end, backend, and database layers coherently  
-- **Serverless & Cloud:** WeChat Cloud Functions, API design, dynamic content flow  
-- **AI / ML Experimentation:** Model optimisation, evaluation metrics, applied computer vision  
-- **Software Architecture:** Object-oriented Java, modularity, maintainability  
-- **Documentation & Presentation:** Technical writing, UML, report structuring  
+- **Front-end Engineering:** Responsive layouts, DOM / component-based UI, WeChat Mini Program development  
+- **Backend Design & Systems Engineering:** Multi-threading, DAG dependency management, reactive computation  
+- **Database & Data Integrity:** SQL normalisation, NoSQL design, triggers, stored procedures, automated workflows  
+- **Serverless & Cloud Architecture:** WeChat Cloud Functions, modular APIs, real-time synchronization  
+- **AI / ML Integration:** Model training, evaluation metrics, transfer learning, computer vision applications  
+- **Interactive & Game Systems:** UE5 level design, lighting, navigation, physics, immersive environments  
+- **Software Architecture & Documentation:** OOP, modular Java, UML, technical writing, prototyping best practices  
 
+---
 
 ## Vision & Next Steps
 
-My current direction focuses on:
-- **Full-stack scalability:** integrating frontend + backend + cloud layers  
-- **Applied AI:** embedding ML models into production-level systems  
-- **System security & optimisation:** strengthening architecture reliability and privacy  
+Current focus:  
+- **Full-stack scalability:** Seamless integration of frontend, backend, and cloud layers  
+- **Applied AI:** Deploy ML models in production-level systems  
+- **System optimisation & security:** Reliable architecture, privacy, and maintainable codebases  
 
-Future portfolio updates will include:
+Upcoming portfolio expansions:  
 - React-based personal dashboard  
-- Python Flask backend microservice  
-- Cloud-hosted AI inference demo  
+- Python Flask / FastAPI backend microservices  
+- Cloud-hosted AI inference demos  
+- Advanced interactive / game mechanics  
 
-
+---
 
 ## Contact
+
 **Name:** Dani  
 **Role:** Master of Information Technology, UNSW  
-**GitHub:** [github_danni](https://github.com/421D)  
-**LinkedIn:** [linkedin_danni](https://www.linkedin.com/in/dani-c-1b7648388/) 
-
-
-
-
-
-
+**GitHub:** [github.com/421D](https://github.com/421D)  
+**LinkedIn:** [linkedin.com/in/你的用户名](https://www.linkedin.com/)
