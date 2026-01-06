@@ -4,6 +4,8 @@ This portfolio consolidates my **full-stack, backend, cloud, AI, and interactive
 Projects span **mobile apps, desktop systems, WeChat Mini Programs, database engineering, AI experimentation, and game development**, reflecting both technical breadth and engineering depth.
 
 > Demonstrates a journey from **user interfaces** to **backend architecture**, **serverless cloud integration**, and **applied AI**, emphasizing scalability, maintainability, and practical deployment.
+>
+> UI Design → Front-end Interaction → Dynamic CMS → Database Architecture → Serverless Cloud → AI/ML Integration → Interactive Systems
 
 ---
 
@@ -18,16 +20,7 @@ Projects span **mobile apps, desktop systems, WeChat Mini Programs, database eng
 | **Desktop Systems / Product Prototyping** | [product_prototyping](https://github.com/421D/product_prototyping) | Java Swing, JDBC, Access DB | Full CRUD desktop management systems, user-centred design, prototyping workflows |
 | **Game / Interactive Systems** | [game_Interactive-Systems](https://github.com/421D/game_Interactive-Systems) | Unreal Engine 5, Level Design, Lighting | Multi-floor underground station level, interactive environment, immersive scene design |
 
----
 
-## Development Evolution
-
-```
-UI Design → Front-end Interaction → Dynamic CMS → Database Architecture → Serverless Cloud → AI/ML Integration → Interactive Systems
-```
-
-This illustrates a **bottom-up mastery of IT system development**, from user interfaces and client logic to backend data management, cloud automation, and applied AI.  
-Each stage builds on the previous, emphasizing **modularity, scalability, and maintainability**.
 
 ---
 
@@ -43,24 +36,9 @@ Each stage builds on the previous, emphasizing **modularity, scalability, and ma
 
 ---
 
-## Vision & Next Steps
-
-Current focus:  
-- **Full-stack scalability:** Seamless integration of frontend, backend, and cloud layers  
-- **Applied AI:** Deploy ML models in production-level systems  
-- **System optimisation & security:** Reliable architecture, privacy, and maintainable codebases  
-
-Upcoming portfolio expansions:  
-- React-based personal dashboard  
-- Python Flask / FastAPI backend microservices  
-- Cloud-hosted AI inference demos  
-- Advanced interactive / game mechanics  
-
----
-
 ## Contact
-
 **Name:** Dani  
 **Role:** Master of Information Technology, UNSW  
 **GitHub:** [github.com/421D](https://github.com/421D)  
-**LinkedIn:** [linkedin.com/in/你的用户名](https://www.linkedin.com/)
+**LinkedIn:** [linkedin.com/in/dani](https://www.linkedin.com/in/dani-c-1b7648388/)
+
